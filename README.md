@@ -1,2 +1,2 @@
 # my-daily-
-ini cuma test aja gw mau ekperimen 
+ini cuma test aja ,gw mau ekperimen 
