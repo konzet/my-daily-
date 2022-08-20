@@ -1,0 +1,10 @@
+Dns Over Https (D-o-H)
+block ads:
+https://doh.tiar.app/dns-query (Tiarapp)
+https://dns.adguard-dns.com/dns-query  (Adguard)
+https://dns.oszx.co/dns-query (DNSoszx)
+https://dnsforge.de/dns-query (DNSforge)
+https://doh.libredns.gr/ads (Libredns)
+
+privacy 
+https://doh.sb/dns-query (Dnssb) privacy 
