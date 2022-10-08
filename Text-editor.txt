@@ -1,0 +1,55 @@
+hallo semuanya nama saya ramdani
+kali ini saya akan memberikan rekomendasi
+text editor untuk terminal linux
+beserta command dasarnya
+yg saya rekomendasikan yaitu:
+1. nano
+2. vim
+3. micro
+
+
+1. Nano
+command:
+help		CTRL+G
+exit		CTRL+X
+save		CTRL+O
+copy		ALT+6
+paste	 	CTRL+U
+undo		ALT+U
+redo	 	ALT+E
+cut		CTRL+K
+search		CTRL+W
+justify		CTRL+J
+line		CTRL+/
+location	CTRL+C
+set number 	ALT+C
+
+2. vim
+command:
+help		:help
+edit text	i
+exit edit	ESC
+exit		:q
+save		:w
+save as		:sav namafile
+copy		y / yy
+paste		p
+delete line	dd
+set number	:set number
+undo		uu / u
+redo		CTRL+R
+delete word	x / dw
+replace word	r
+search		/query
+
+3. micro
+command:
+help		CTRL+G
+exit		CTRL+Q
+save		CTRL+S
+copy		CTRL+C
+paste		CTRL+V
+undo		CTRL+Z
+redo		CTRL+Y
+set number	CTRL+R
+search		CTRL+F
