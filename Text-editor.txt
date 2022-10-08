@@ -1,4 +1,4 @@
-hallo semuanya nama saya ramdani
+hallo semuanya nama saya dani
 kali ini saya akan memberikan rekomendasi
 text editor untuk terminal linux
 beserta command dasarnya
